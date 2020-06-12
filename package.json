@@ -1,0 +1,8 @@
+{
+  "name": "ulauncher-omni",
+  "version": "1.0.0",
+  "description": "Omni theme for ulauncher",
+  "repository": "https://github.com/getomni/ulauncher-omni.git",
+  "author": "Jefferson Silva",
+  "license": "MIT"
+}
