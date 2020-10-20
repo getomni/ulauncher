@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="Theme screnshoot on Ulauncher" src="./screenshot.png">
+  <img alt="Omni screnshoot for Ulauncher" src="./screenshot.png">
 </p>
 
 ## Install
@@ -32,7 +32,7 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/ulauncher/graphs/contributors).
 
 | [![Jefferson Silva](https://github.com/JeffSilva01.png?size=100)](https://github.com/JeffSilva01) |
 | ------------------------------------------------------------------------------------------------- |
@@ -40,4 +40,4 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](./LICENSE.md)
