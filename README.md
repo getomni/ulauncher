@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-welcome-%238257E6.svg" alt="PRs welcome!" />
+  <img src="https://img.shields.io/badge/PRs-welcome-%235FCC6F.svg" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%238257E6">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%235FCC6F">
 </p>
 
 <p align="center">
